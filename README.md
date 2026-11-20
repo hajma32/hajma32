@@ -1,4 +1,4 @@
-# Hi, I'm Petr 👋
+### Hi, I'm Petr 👋
 
 I build cross-platform mobile apps with **React Native** and **Kotlin Multiplatform**.
 
